@@ -10,3 +10,4 @@ A personal project developing a machine learning model (MLM) to predict the spec
 
 ## Raw Data Sources
 https://www.chirovox.org/#soundlibrary
+https://www.batcon.org/wp-content/uploads/2020/09/Bat_Echolocation_Research_2nd_Ed_20200918.pdf
